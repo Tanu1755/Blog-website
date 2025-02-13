@@ -15,7 +15,7 @@ You can create your own version of the app (including MongoDB!)
 #Local Installation
 1. Install <a href="https://nodejs.org" target="_blank">Node.js</a> 
 2. Install <a target="_blank" href="https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-with-homebrew">MongoDB</a>
-3. `git clone https://github.com/rajaraodv/react-redux-blog.git`
+3. `git clone https://github.com/Tanu1755/Blog-website.git`
 4. `cd react-redux-blog`
 5. `npm install`
 6. Create a free <a href="https://postmarkapp.com" target="_blank">PostMark</a> account for sending (confirm email, forgot pwd) emails.
