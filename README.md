@@ -61,7 +61,7 @@ In production, we need to compile the **latest** client js and place it to `publ
 #Cloning Locally And Pushing To Heroku
 Running your own instance on <a href="https://heroku.com">Heroku</a>.
 
-1. `git clone https://github.com/rajaraodv/react-redux-blog.git`
+1. `git clone https://github.com/Tanu1755/Blog-website.git`
 2. `cd react-redux-blog`
 3. `heroku login` (enter heroku credentials)
 4. `heroku init`
